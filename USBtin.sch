@@ -291,17 +291,6 @@ Wire Wire Line
 	2250 4200 2400 4200
 Wire Wire Line
 	2400 4100 2250 4100
-$Comp
-L Device:C C4
-U 1 1 5DB4DA9B
-P 4500 1350
-F 0 "C4" H 4615 1396 50  0000 L CNN
-F 1 "4.7u" H 4615 1305 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 4538 1200 50  0001 C CNN
-F 3 "~" H 4500 1350 50  0001 C CNN
-	1    4500 1350
-	1    0    0    -1  
-$EndComp
 Wire Wire Line
 	4500 1500 4500 1600
 Wire Wire Line
@@ -726,4 +715,15 @@ Wire Wire Line
 	5700 5000 5400 5000
 Text Notes 6750 5150 0    50   ~ 0
 Tester avec RS\ndirect sur GND
+$Comp
+L Device:CP C4
+U 1 1 5DB097F7
+P 4500 1350
+F 0 "C4" H 4618 1396 50  0000 L CNN
+F 1 "4.7u" H 4618 1305 50  0000 L CNN
+F 2 "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm" H 4538 1200 50  0001 C CNN
+F 3 "~" H 4500 1350 50  0001 C CNN
+	1    4500 1350
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
