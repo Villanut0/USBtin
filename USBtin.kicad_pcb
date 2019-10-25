@@ -856,6 +856,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model ${VILLANUT3DMOD}/USB_Type_B_Connector_Right_Angle.stp
+      (at (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 -90))
+    )
   )
 
   (module Package_DIP:DIP-18_W7.62mm (layer F.Cu) (tedit 5DACEF99) (tstamp 5DACDF9E)
