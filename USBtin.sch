@@ -713,8 +713,6 @@ Wire Wire Line
 	5700 5150 5700 5000
 Wire Wire Line
 	5700 5000 5400 5000
-Text Notes 6750 5150 0    50   ~ 0
-Tester avec RS\ndirect sur GND
 $Comp
 L Device:CP C4
 U 1 1 5DB097F7
