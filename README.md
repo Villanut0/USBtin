@@ -10,7 +10,7 @@ It is almost the same as the original PCB. I made it to be able to mill it easil
 * 65x32mm
 * Single sided PCB with only 2 straps
 * Same through-hole components as the original project ([Partlist](https://www.fischl.de/usbtin/#partlist))
-* [Interactive BOM](http://htmlpreview.github.io/?https://github.com/Villanut0/USBtin/bom/ibom.html)
+* [Interactive BOM](http://htmlpreview.github.io/?https://github.com/Villanut0/USBtin/blob/master/bom/ibom.html)
 
 ## Screenshots
 <img src="img/top_view.PNG">
